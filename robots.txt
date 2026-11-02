@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victormanuelzap.github.io/euro-total/sitemap.xml
